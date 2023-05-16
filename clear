@@ -1,0 +1,95 @@
+[1mdiff --git a/Databases/index.html b/Databases/index.html[m
+[1mdeleted file mode 100644[m
+[1mindex 130313d..0000000[m
+[1m--- a/Databases/index.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,12 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    Hello World[m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/Diagram/index.html b/Diagram/index.html[m
+[1mdeleted file mode 100644[m
+[1mindex 130313d..0000000[m
+[1m--- a/Diagram/index.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,12 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    Hello World[m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/Documents/index.html b/Documents/index.html[m
+[1mdeleted file mode 100644[m
+[1mindex 130313d..0000000[m
+[1m--- a/Documents/index.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,12 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    Hello World[m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/OTHER/index.html b/OTHER/index.html[m
+[1mdeleted file mode 100644[m
+[1mindex 130313d..0000000[m
+[1m--- a/OTHER/index.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,12 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    Hello World[m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/Projects/index.html b/Projects/index.html[m
+[1mdeleted file mode 100644[m
+[1mindex 130313d..0000000[m
+[1m--- a/Projects/index.html[m
+[1m+++ /dev/null[m
+[36m@@ -1,12 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta http-equiv="X-UA-Compatible" content="IE=edge">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <title>Document</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    Hello World[m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
